@@ -1,0 +1,70 @@
+# Spis i ekspereymentalnie wyznaczone wymiary aparatury
+- Soczewka płasko-wypukła x2
+	Długość: 60 mm
+	Szerokość u podstawy: 3 mm
+	Szerokość: 13 mm
+	Wyznaczony promień krzywizny: 50 mm
+- Soczewka płasko-wklęsła
+	Długość: 60 mm
+	Szerokość u podstawy: 14 mm
+	Szerokość: 4 mm
+	Wyznaczony promień krzywizny: 50 mm
+- Soczewka płasko-wypukła (pół cylindra)
+	Promień: 30 mm
+- Zbiornik na ciecz z dwoma komorami
+	Promień: 30 mm
+	Grubość ścianki dzielącej: 2 mm
+	Grubość ścianki zewnętrznej: 2.5 mm
+- Przesłony z 1,2,3,5 szparami
+	Wymiary przesłon: 50 mm x 64 mm
+	Grubość szpar: 1 mm
+- Lampa halogenowa
+
+
+Uznajemy niepewność pomiarów na podstawie papieru milimetrowego za +- 0.5 mm
+
+Współczynnik załamania powietrza: 1
+Współczynnik załamania plexi: 1.491
+Współczynnik załamania wody: ?
+
+Na potrzeby następnych zadań ustalimy system współrzędnych na papierze milimetrowym jako podzbiór R^2: [0, 27] x [0, 18]. 
+Będziemy podawać położenia soczewek i ich ognisk jako punkty współrzędne (a,b).
+
+# Zadanie 1
+Wyznaczenie promienia krzywizny i ogniskowej soczewek skupiających
+Środek soczewki: (0, 9)
+Zaobserwowane ognisko: (10.2, 9)
+
+Środek soczewki: (0, 9)
+Zaobserwowane ognisko: (5, 9)
+
+# Zadanie 2
+Wyznaczenie promienia krzywizny i ogniskowej soczewek rozpraszających
+Środek soczewki: (14, 9)
+Zaobserwowane ognisko: (5, 9)
+
+# Zadanie 3
+Pomiar aberracji sferycznej
+Środek soczewki: (4, 9)
+Zaobserwowane ognisko 1: (13.5, 9)
+
+Zaobserwowane ognisko 2: (13.8, 9)
+Zaobserwowane ognisko 2 -> 2cm: (15, 9)
+Zaobserwowane ognisko 2 <- 2cm: (10.8, 9)
+
+# Zadanie 4
+Obserwacje innych aberracji
+
+# Zadanie 5
+Obserwacje wpływu zmiany współczynnika załamania ośrodka na przebieg promieni wiązki świetlnej i wyznaczanie współczynnika załamania dla wody
+
+Środek soczewki (pusty): (20, 9)
+Zaobserwowane ognisko: (3.5, 9)
+
+Środek soczewki (półpełny): (3, 9)
+Zaobserwowane ognisko: (16.2, 9)
+
+Środek soczewki (pełny): (3, 9)
+Zaobserwowane ognisko: (8.5, 9)
+
+
